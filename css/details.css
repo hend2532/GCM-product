@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    padding: 30px;
+}
+.title{
+    color: rgb(8, 178, 178);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.price{
+    color: rgb(8, 178, 178);
+}
+p{
+    color:rgb(5, 118, 118);
+}
+button{
+    color: white;
+    border: none;
+    background-color: rgb(8, 178, 178);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: rgb(5, 118, 118);
+    cursor: pointer;
+}
