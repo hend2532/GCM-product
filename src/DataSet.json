@@ -1,0 +1,123 @@
+[
+{
+    "id":1,
+    "name": "Air freshener",
+    "price": {
+        "customer":20,
+        "wholesale":18
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "with its elegance and enchanting scent! Make every moment in your home come alive with this wonderful air freshener that is characterized by its unique formulation and contemporary scent that lasts longer. Make your home come alive with vitality and freshness with 'Air Freshener', and enjoy an exceptional experience that gives you tranquility and refreshment at the same time."
+},
+{
+    "id":2,
+    "name": "Degreaser",
+    "price": {
+        "customer":15,
+        "wholesale":12
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "the ideal solution for cleaning and polishing floors, surfaces, and ceramics effortlessly and effectively. Enjoy a clean and shiny home thanks to our unique formulation that quickly and easily eliminates grease and dirt, making it easy for you to clean spaces with precision and without hassle."
+},
+{
+    "id":3,
+    "name": "Liquid Soap 1",
+    "price": {
+        "customer":8,
+        "wholesale":7
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "A dish and surface cleaner with a lemon, orange, and peach scent is the perfect solution for your home. Enjoy an exceptional cleaning experience with this effective cleanser. Designed specifically to effectively remove dirt and grease without leaving residue"
+},
+{
+    "id":4,
+    "name": "Shower Gel 1",
+    "price": {
+        "customer":20,
+        "wholesale":18
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cosmetics",
+    "details": "bathing and handwashing that provides a perfect luxurious bathing experience. Its unique formulation combines high quality with natural ingredients to give your skin the care and comfort it deserves. With shower gel, you'll enjoy a rich, soft lather that gently cleanses your skin, effectively removing impurities and dirt. Enriched with moisturizing ingredients, you'll achieve soft and supple skin after each use. Make your showering experience unforgettable every day with shower gel that combines quality with superior skin care."
+},
+{
+    "id":5,
+    "name": "Shower Gel 2",
+    "price": {
+        "customer":25,
+        "wholesale":20
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cosmetics",
+    "details": "bathing and handwashing that provides a perfect luxurious bathing experience. Its unique formulation combines high quality with natural ingredients to give your skin the care and comfort it deserves. With shower gel, you'll enjoy a rich, soft lather that gently cleanses your skin, effectively removing impurities and dirt. Enriched with moisturizing ingredients, you'll achieve soft and supple skin after each use. Make your showering experience unforgettable every day with shower gel that combines quality with superior skin care."
+},
+{
+    "id":6,
+    "name": "Laundry Gel",
+    "price":{
+        "customer":20,
+        "wholesale":18
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "This is the ultimate solution for your white and colored clothes. It provides excellent stain removal in just one wash without leaving any residues. It's gentle on fabrics yet powerful in removing stains in a single wash, combining the stain removal properties found in powders with all the advantages of a liquid."  
+},
+{
+    "id":7,
+    "name": "Floor Perfume",
+    "price": {
+        "customer":18,
+        "wholesale":15
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "To perfume various types of floors in your home with the scent of [scent name], providing the home with an exceptional fragrance befitting an elegant space. Available in [volume] mL, carefully selected perfumes to give your home the best long-lasting scent"
+},
+{
+    "id":8,
+    "name": "Fabric Freshener",
+    "price":{
+        "customer":10,
+        "wholesale":8
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "Gives your clothes a delightful scent and long-lasting freshness thanks to its unique formula rich in essential oils that penetrate the fabric fibers to provide longer-lasting freshness."
+},
+{
+    "id":9,
+    "name": "Floor Disinfectant",
+    "price": {
+        "customer":15,
+        "wholesale":13
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "We offer you a high-quality floor and surface cleaner and disinfectant—the ideal solution for a safe, germ-free environment. Our high-quality formula is specially designed to effectively kill bacteria and sanitize all types of surfaces. Whether you're cleaning floors, work surfaces, or any other frequently touched areas, our disinfectant ensures comprehensive protection against harmful germs."  
+},
+{
+    "id":10,
+    "name": "Liquid Soap 2",
+    "price":{
+        "customer":11,
+        "wholesale":9
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "A dish and surface cleaner with a lemon, orange, and peach scent is the perfect solution for your home. Enjoy an exceptional cleaning experience with this effective cleanser. Designed specifically to effectively remove dirt and grease without leaving residue"
+},
+{
+    "id":11,
+    "name": "Liquid Soap 3",
+    "price": {
+        "customer":13,
+        "wholesale":11
+    },
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9Kl266w-3uC053Xs7LGjQi2XPHa2n_zvg&s",
+    "category":"cleaners",
+    "details": "A dish and surface cleaner with a lemon, orange, and peach scent is the perfect solution for your home. Enjoy an exceptional cleaning experience with this effective cleanser. Designed specifically to effectively remove dirt and grease without leaving residue"
+}
+]

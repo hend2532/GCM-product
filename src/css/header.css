@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    height: 400px;
+    background-image: url('../image/home1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+}
+.header img{
+    width: 100px;
+}
+.header-1{
+    display: flex;
+    justify-content: space-evenly;
+    height: 70px;
+    align-items: center;
+}
+.header-1 .search{
+    border-radius: 10px;
+    border: 2px solid white;
+    width: 35%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+.header-1 .search input{
+    background-color: transparent;
+    border: none;
+}
+.header-1 .search input:focus{
+    border: none;
+    outline: none;
+}
+.header-1 .search input::placeholder{
+    color: white;
+}
+.header-1 .home-icons{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    align-items: center;
+    margin: auto;
+}
+nav ul li{
+    padding-right: 25px;
+    margin: 10px;
+    border-right: 2.5px solid white;
+}
+nav ul li:last-child{
+    border-right: 2.5px solid transparent;
+}
+.section-home{
+    display: flex;
+}
+.container > div:nth-child(2){
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    gap: 20px;
+}
+.container > div:nth-child(2) p{
+    font-size: 17px;
+}
